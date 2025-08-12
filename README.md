@@ -104,6 +104,6 @@ Enhance UI/UX with additional customization options
 Add logging and error handling in backend
 
 Author
-Harshitha D G
-AI Software Engineer Intern | Full Stack Developer
+Harshitha D G, Deepak Athresh R
 https://github.com/HarshithaDevanga
+https://github.com/DeepakAthreshR
